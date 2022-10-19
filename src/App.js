@@ -8,7 +8,6 @@ function App() {
     
     <div className="App">
       <h1> boya world ~ </h1>
-    // <TodoApp_seoyyy />
      Learn React
      
     </div>
