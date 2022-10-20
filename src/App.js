@@ -6,9 +6,8 @@ import TodoList from './TodoList';
 
 function App() {
   return (
-    
     <div className="App">
-      <h1> boya world ~ </h1>
+      <h1> boya world ♥ </h1>
      Learn React
     <TodoApp_Boyaa/>
     </div>
