@@ -7,12 +7,12 @@ import TodoList from './TodoList';
 function App() {
   return (
     <div className="App">
-      <h1> boya world ♥ </h1>
+      <h1> Trigger Test </h1>
      Learn React
     <TodoApp_Boyaa/>
     </div>
   );
 }
-// App components Seoyoung han
+// App components Bohyeon Choi
 
 export default App;
